@@ -31,4 +31,6 @@ p {
     margin: 35px 0px;
 }
 
-body{ background-color: aquamarine;}
+body{ 
+    background-image: url("op.jpg");;
+}
